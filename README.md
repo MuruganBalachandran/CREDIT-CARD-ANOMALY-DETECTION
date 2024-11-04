@@ -17,6 +17,6 @@ The dataset used is a [Credit Card Fraud Detection Dataset](https://www.kaggle.c
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Credit-Card-Fraud-Anomaly-Detection.git
+git clone https://github.com/MuruganBalachandran/CREDIT-CARD-ANOMALY-DETECTION.git
 cd Credit-Card-Fraud-Anomaly-Detection
 pip install -r requirements.txt
